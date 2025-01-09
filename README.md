@@ -41,4 +41,3 @@ This project aims to:
 1. Explore the design and architecture of neural networks for classification tasks.
 2. Highlight the importance of **dense layers** and **convolutional layers** in learning patterns.
 3. Understand how optimizers and learning rates influence training and performance.
-4. Provide a practical guide for building and optimizing neural networks for beginners and practitioners.
